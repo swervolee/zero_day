@@ -1,4 +1,4 @@
-# zero_day
->This is my first repository as a full-stack engineer
-
-**its a new project we are doing**
+# zero_
+| DAY | 1 |
+| ---- | ---- |
+| learning to create repositories | the experience was amazing |
